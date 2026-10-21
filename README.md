@@ -60,14 +60,14 @@ Authentication Flow
 3. Access protected pages while authenticated.
 4. Sign out to clear the authenticated state.
 5. Verify that protected pages redirect unauthenticated users to the login page.
-
 Screenshots
 
-The "docs" folder contains screenshots demonstrating the application's authentication flow.
+Screenshots demonstrating the authentication flow are available in "src/services/docs/".
 
-- "docs/registration.png" — Registration page.
-- "docs/login-success.png" — Successful login.
-- "docs/protected-route.png" — Protected route redirect after logout.
+- Registration: "src/services/docs/registration.jpg"
+- Successful login: "src/services/docs/login-success.png"
+- Protected route: "src/services/docs/protected-route.png"
+
 
 Running the Project
 
